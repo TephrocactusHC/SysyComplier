@@ -1,2 +1,4 @@
 # SysyComplier
-一个很烂的只实现了基础功能的编译器
+Ein unvollkommener Compiler, der nur grundlegende Funktionen implementiert
+# emmmmmmmmmmm
+Wenn Sie das erweiterte Beispiel nicht bestehen, kopieren Sie es nicht, Sie können das einer anderen Person kopieren.
